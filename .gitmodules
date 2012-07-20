@@ -1,0 +1,3 @@
+[submodule "qtbindings"]
+	path = qtbindings
+	url = https://github.com/theldoria/qtbindings.git
