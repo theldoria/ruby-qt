@@ -1,0 +1,9 @@
+GEM
+  specs:
+    qtbindings (4.6.3.4-x86-mingw32)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  qtbindings (>= 4.6.3.4)
